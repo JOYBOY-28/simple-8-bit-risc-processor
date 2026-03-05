@@ -1,0 +1,33 @@
+# Cadence Innovus database & state files
+*.dat
+*.dat/
+*.globals
+*.view
+
+# Cadence session & command logs
+*.cmd
+*.log
+*.logv
+*.key
+
+# Variable & environment files
+*.var
+
+# Simulation artifacts
+*.shm
+*.shm/
+*.vcd
+
+# Liberty timing library
+*.lib
+
+#some aditional components
+*.rpt
+INCA_libs/
+fv/
+.cadence/
+.simvision/
+.nclaunch.dd
+cds.lib
+simple_8bit_cpu.dat
+screen shots/
